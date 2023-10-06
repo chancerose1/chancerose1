@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chancerose1
-- 👀 I’m interested in web development and software design.
+- 👀 I’m interested in web development and software engineering.
 - 🌱 I’m currently studying computer science at the University of Virginia.
 - 📫 How to reach me: aut9fc@virginia.edu
 
